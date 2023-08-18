@@ -1,0 +1,82 @@
+/*Elements */
+
+body {
+    background-color: #FFE4C0;   
+}
+
+h1 {
+    font-size: 3.5rem;
+}
+
+/* IDs */
+
+#btnn-random {
+    background-color: #FD5D5D;
+    border-color: #d01089;
+    border-radius: 6px;
+    color: maroon;
+    cursor: pointer;
+    font-family: 'Caprasimo', cursive;
+    font-size: 30px;
+    margin: 60px 100px 100px 480px;
+    padding: 5px 15px;
+}
+
+/*Classes */
+
+.button-roll-dices:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.div1 {
+    font-family: 'Bungee Spice', cursive;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.row-players {
+    color: #FD5D5D;
+    font-weight: bold;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 2rem;
+    padding-top: 100px;
+    position: relative;
+}
+
+
+
+.dice1-player-1, .dice2-player-1, .dice3-player-1 {
+    width: 200px;
+    margin: 20px auto auto 320px;
+}
+
+.dice4-player-1 {
+    width: 200px;
+    margin: 20px auto auto 320px;
+    position: relative;
+}
+
+
+.dice-player-2 {
+    width: 200px;
+    margin: 20px 320px auto auto ;
+}
+
+.player-1 {
+    text-align: right;
+}
+
+.player-2 {
+    text-align: left;
+}
+
+.span-player1 {
+    padding-right: 50px;
+}
+
+.span-player2 {
+    padding-left: 30px;
+}
+
+
+
