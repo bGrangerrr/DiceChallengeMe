@@ -62,15 +62,15 @@ function whoIsWinner(randomNumber1, randomNumber2) {
 
     if (randomNumber1 > randomNumber2) {
 
-        document.getElementById("h1_title").innerHTML = "Player 1 Wins!!!"
+        document.getElementById("h1_title").innerHTML = "Player 1 Wins!!!";
 
     } else if (randomNumber1 < randomNumber2) {
 
-        document.getElementById("h1_title").innerHTML = "Player 2 Wins!!!"
+        document.getElementById("h1_title").innerHTML = "Player 2 Wins!!!";
 
     } else if (randomNumber1 === randomNumber2) {
 
-        document.getElementById("h1_title").innerHTML = "DRAW!!!"
+        document.getElementById("h1_title").innerHTML = "DRAW!!!";
         
     }
 
