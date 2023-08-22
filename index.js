@@ -1,4 +1,7 @@
 
+//Tente mais tarde refatorar o código por usar o "setAttribute" + alterando o 'source' via string (22/08/2023)
+
+
 function refreshChangeImg() {
 
     let randomNumber1 = Math.floor(Math.random() * 6) + 1;
